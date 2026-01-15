@@ -106,6 +106,18 @@
 - ✅ Rental system
 - ✅ Revenue tracking
 
+##Images 
+
+![WhatsApp Image 2026-01-15 at 5 19 46 PM](https://github.com/user-attachments/assets/5b9eee25-bcb2-4b0a-b71f-1961f24b0c59)
+
+<img width="1204" height="834" alt="Screenshot 2026-01-11 at 1 21 18ΓÇ»AM" src="https://github.com/user-attachments/assets/35ddccf0-6269-4669-adf1-5d91617ed775" />
+
+<img width="1462" height="765" alt="Screenshot 2026-01-11 at 1 21 02ΓÇ»AM" src="https://github.com/user-attachments/assets/1391a64c-6e22-49bb-81d0-1333fe41a6fd" />
+
+<img width="1430" height="629" alt="Screenshot 2026-01-11 at 1 20 51ΓÇ»AM" src="https://github.com/user-attachments/assets/c538276b-011c-4681-895f-e90f4a58793c" />
+
+
 ---
+
 
 **IPGuardian** represents the future of intellectual property management - where creators have control, consumers have transparency, and innovation thrives in a decentralized ecosystem. Join us in building the next generation of IP protection and monetization.
